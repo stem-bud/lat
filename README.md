@@ -12,15 +12,18 @@ white starts first,
 to destroy a soldier piece, surround it on two opposite sides 
 
 
-<img width="173" alt="surroundH" src="https://github.com/user-attachments/assets/365f04ce-f930-4341-b80c-339564ff8afb">
+<img width="173" alt="surroundH" src="https://github.com/user-attachments/assets/eb9c4b2b-1c34-4566-98d4-514ebd301031">
+
 like this
 
-<img width="172" alt="surroundV" src="https://github.com/user-attachments/assets/4be3ff8f-daac-4f01-bab5-f7cba4861e5c">
+<img width="172" alt="surroundV" src="https://github.com/user-attachments/assets/dad8cbee-13dc-4a09-ae61-2c41f2c27a8f">
+
 or like this
 
 to destroy a headpiece, surround it on all four sides
 
-<img width="229" alt="surroundVH" src="https://github.com/user-attachments/assets/d8b7ca23-99fb-4856-ac28-c2735b745a04">
+<img width="229" alt="surroundVH" src="https://github.com/user-attachments/assets/576c5a92-239c-4b80-a1d5-68feba7b7005">
+
 like this
 
 
