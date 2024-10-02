@@ -36,7 +36,7 @@ The game then begins; good luck.
 controls:
 scroll up/down to zoom in and out.
 click and drag to change your camera's perspective.
-click on a piece to select it, click again to deselect it/
+click on a piece to select it, click again to deselect it
 to move a piece, select a piece, then click on any yellow circles that's shown, they represent how you can move
 
 
