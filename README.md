@@ -35,6 +35,7 @@ click on Create New Game, a generated code will be returned to you. Your friend 
 The game then begins; good luck.
 
 controls:
+
 scroll up/down to zoom in and out.
 click and drag to change your camera's perspective.
 click on a piece to select it, click again to deselect it
