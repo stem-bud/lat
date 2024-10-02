@@ -1,9 +1,9 @@
-import player from "http://example.com/player";
-import setup from "http://example.com/setup";
-import vector from "http://example.com/vector"
+import player from "http://127.0.0.1/player";
+import setup from "http://127.0.0.1/setup";
+import vector from "http://127.0.0.1/vector"
 
 
-const onlyPlayer = new player("example.com",5000);
+const onlyPlayer = new player("127.0.0.1",5000);
 
 const canvasAndCamera = new setup("lightblue",{x:0,y:0},{x:screen.width,y:screen.height});
 canvasAndCamera.setup(document.body);

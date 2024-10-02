@@ -1,5 +1,5 @@
-import image from "http://example.com/images";
-import vector from "http://example.com/vector";
+import image from "http://127.0.0.1/images";
+import vector from "http://127.0.0.1/vector";
 
 
 class canvas

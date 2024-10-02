@@ -1,4 +1,4 @@
-import tools from "http://example.com/tools"
+import tools from "http://127.0.0.1/tools"
 
 class vector{
     x;

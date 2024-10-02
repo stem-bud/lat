@@ -1,4 +1,4 @@
-import vector from "http://example.com/vector";
+import vector from "http://127.0.0.1/vector";
 
 class camera
 {

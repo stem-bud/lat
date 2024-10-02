@@ -1,6 +1,6 @@
-import tools from "http://example.com/tools"
+import tools from "http://127.0.0.1/tools"
 
-import {vector,canvas,camera} from "http://example.com/visuals"
+import {vector,canvas,camera} from "http://127.0.0.1/visuals"
 
 
 class setup

@@ -1,7 +1,7 @@
 //const net = require("net");
-import tools from "http://example.com/tools";
-import { vector } from "http://example.com/visuals";
-import movement from "http://example.com/movement";
+import tools from "http://127.0.0.1/tools";
+import { vector } from "http://127.0.0.1/visuals";
+import movement from "http://127.0.0.1/movement";
 
 class player
 {

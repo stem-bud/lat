@@ -1,6 +1,6 @@
-import tools from "http://example.com/tools";
+import tools from "http://127.0.0.1/tools";
 
-import vector from "http://example.com/vector";
+import vector from "http://127.0.0.1/vector";
 
 class position
 {
