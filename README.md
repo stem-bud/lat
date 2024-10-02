@@ -5,6 +5,7 @@ goal:
 to either destroy all of the soldier pieces of your opponent (fully white or fully black circle), or destroy the head piece/caesar (white circle with black outline, or black circle with white outline)
 
 rules:
+
 any piece can move in any of the four cardinal directions however far you wish provided its path is not blocked
 
 white starts first,
