@@ -8,7 +8,7 @@ rules:
 
 any piece can move in any of the four cardinal directions however far you wish provided its path is not blocked
 
-white starts first,
+white starts first.
 
 to destroy a soldier piece, surround it on two opposite sides 
 
