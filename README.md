@@ -10,7 +10,7 @@ any piece can move in any of the four cardinal directions however far you wish p
 
 white starts first.
 
-to destroy a soldier piece, surround it on two opposite sides 
+to destroy a soldier piece, surround it on two opposite sides.
 
 
 <img width="173" alt="surroundH" src="https://github.com/user-attachments/assets/eb9c4b2b-1c34-4566-98d4-514ebd301031">
@@ -21,7 +21,7 @@ like this
 
 or like this
 
-to destroy a headpiece, surround it on all four sides
+to destroy a headpiece, surround it on all four sides.
 
 <img width="229" alt="surroundVH" src="https://github.com/user-attachments/assets/576c5a92-239c-4b80-a1d5-68feba7b7005">
 
@@ -40,9 +40,9 @@ scroll up/down to zoom in and out.
 
 click and drag to change your camera's perspective.
 
-click on a piece to select it, click again to deselect it.
+click on a piece to select it, and click again to deselect it.
 
-To move a piece, select a piece, then click on any yellow circles that's shown, they represent how you can move
+To move a piece, select a piece, then click on any yellow circles that are shown, they represent how you can move
 
 
 
