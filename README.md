@@ -30,6 +30,8 @@ like this
 
 ## playing:
 
+play the game at: HTTP://latronesonline.com
+
 find a friend, 
 click on Create New Game, a generated code will be returned to you. Your friend should enter the code you were given, and click join.
 The game then begins; good luck.
