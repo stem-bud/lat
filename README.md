@@ -2,7 +2,7 @@ Based on an ancient Roman game: Latrunculi
 
 goal: 
 
-to either destroy all of the soldier pieces of your opponent (fully white or fully black circle), or destroy the head piece/caesar (white circle with black outline, or black circle with white outline)
+to either destroy all of the soldier pieces of your opponent (fully white or fully black circle), or destroy the headpiece/caesar (white circle with black outline, or black circle with white outline)
 
 rules:
 
@@ -37,9 +37,12 @@ The game then begins; good luck.
 controls:
 
 scroll up/down to zoom in and out.
+
 click and drag to change your camera's perspective.
-click on a piece to select it, click again to deselect it
-to move a piece, select a piece, then click on any yellow circles that's shown, they represent how you can move
+
+click on a piece to select it, click again to deselect it.
+
+To move a piece, select a piece, then click on any yellow circles that's shown, they represent how you can move
 
 
 
